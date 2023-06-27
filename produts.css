@@ -1,0 +1,71 @@
+.anunc_produt{
+
+
+
+}
+.imagem_produto{
+
+    width:290px;
+    height:185px;
+
+
+}
+.ajusts, li{
+
+
+
+
+}
+.text-produt{
+
+
+
+}
+
+@media screen and (max-device-width: 414.5px) {
+
+
+    .anunc_produt{
+
+        text-align: center;
+
+    }
+    .imagem_produto{
+    
+        width:125px;
+        height:75px;
+    
+    
+    }
+    .ajusts{
+    
+        
+    
+    
+    }
+
+    .text-produt{
+
+
+
+    }
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
